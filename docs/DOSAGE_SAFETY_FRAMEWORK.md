@@ -30,4 +30,4 @@ When clinical providers utilize high-volume washes or repeated application cycle
 ---
 
 ## 3. Mandatory Regulatory Disclaimer
-> ⚠️ **REGULATORY COMPLIANCE NOTICE:** The in-clinic use of these washes is intended for structural, mechanical, and functional clearing of the nasal passages. This protocol and associated documentation are not intended to diagnose, treat, cure, or prevent any specific disease, and must not be personalized outside of a licensed physician-patient relationship.
+> **REGULATORY COMPLIANCE NOTICE:** The in-clinic use of these washes is intended for structural, mechanical, and functional clearing of the nasal passages. This protocol and associated documentation are not intended to diagnose, treat, cure, or prevent any specific disease, and must not be personalized outside of a licensed physician-patient relationship.
