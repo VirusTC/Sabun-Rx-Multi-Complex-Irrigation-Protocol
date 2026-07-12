@@ -34,7 +34,7 @@ The codebase is organized into distinct functional directories to defend your me
 
 The financial infrastructure of Sabun Rx is built upon a transparent, white-label procurement model. Gross daily revenue collected from procedures is split via an explicit mathematical cap system:
 1.  **First $200,000 Per Day:** Split exactly **50% / 50%** between the clinical facility and the raw supplier ($100,000 baseline max payout to manufacturing).
-2.  **Daily Surplus Over $200,000:** The clinical entity retains 100% of all gross collections exceeding the initial threshold.
+2.  **Daily Surplus Over $200,000:** The clinical entity Virus Treatment Centers [VirusTC] retains 100% of all gross collections exceeding the initial threshold.
 
 This mechanism is entirely legal because the insurance provider is never billed an artificial markup on a retail product. Insurance claims are submitted solely to reimburse the specialized medical solution, physician diagnostics, and controlled suite delivery.
 
